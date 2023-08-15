@@ -1,8 +1,8 @@
 # noise-schedule
 noise-schedule compare expriment.
-- linear from DDPM
-- cosine from iDDPM
-- sqrt from Diffusion-LM
+- linear from [DDPM](https://arxiv.org/abs/2006.11239)
+- cosine from [iDDPM](https://arxiv.org/abs/2102.09672)
+- sqrt from [Diffusion-LM](https://arxiv.org/abs/2205.14217)
 
 ![页面](pic.png)
 
